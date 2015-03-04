@@ -1,12 +1,14 @@
 # roman
 
-A Clojure library for reading and writing Roman numerals
+Clojure example code for reading and writing Roman numerals
 
 ## Usage
 
-Et tu, Brute?
+Just take the code if you want to.  It's just an example.
 
 ## License
+
+Et tu, Brute?  
 
 Copyright © 2013 Steve Miner
 
