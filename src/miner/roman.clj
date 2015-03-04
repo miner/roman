@@ -1,6 +1,5 @@
 (ns miner.roman
-  (:require [clojure.set :as set]
-            [clojure.string :as str]))
+  (:require [clojure.string :as str]))
 
 ;; Originally inspired by this blog post:
 ;; http://www.jayway.com/2012/08/04/a-decimal-to-roman-numeral-converter-in-just-a-few-lines/
