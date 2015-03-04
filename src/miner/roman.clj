@@ -4,11 +4,6 @@
 
 ;; Originally inspired by this blog post:
 ;; http://www.jayway.com/2012/08/04/a-decimal-to-roman-numeral-converter-in-just-a-few-lines/
-;;
-;; I posted an earlier version on my blog: (was on posterous.com before it died)
-;; http://fnclojure.wordpress.com/2012/08/06/roman-numerals-in-clojure/
-
-;; This version is faster and more readable.
 
 (defn range-down
   "Returns a seq of integers from HIGH (exclusive) down to LOW (inclusive).
